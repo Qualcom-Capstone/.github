@@ -220,8 +220,8 @@ https://medium.com/~~~
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/~~~">
-                <img src="http://img.shields.io/badge/Sum1nLee-green?style=social&logo=github"/>
+            <a href="https://github.com/Jminu">
+                <img src="http://img.shields.io/badge/Jminu-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
