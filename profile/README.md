@@ -203,7 +203,10 @@ https://medium.com/~~~
             Design<br/>
         </td>
         <td width="100" align="center">
-            Full stack<br>
+            Rubik Pi<br>
+            Tracking<br>
+            Calculate<br>
+            YOLO<br>
         </td>
         <td width="100" align="center">
             Backend<br>
