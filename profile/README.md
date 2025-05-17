@@ -1,4 +1,4 @@
-# <icon> Overspeed vehicle detection and alert system - with Qualcom
+# <icon> Overspeed vehicle detection and alert system - with Qualcomm
 <div align=center>
 <img src="~~"/>
 <h5>2025.03.20-2024.05.</h5>
