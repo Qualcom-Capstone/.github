@@ -229,7 +229,7 @@ https://medium.com/~~~
         </td>
         <td width="100" align="center">
             <a href="https://github.com/~~~">
-                <img src="http://img.shields.io/badge/myun1022-green?style=social&logo=github"/>
+                <img src="http://img.shields.io/badge/choimh331-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
