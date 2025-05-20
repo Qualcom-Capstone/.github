@@ -27,9 +27,9 @@ https://medium.com/~~~
 <br />
 <br />
 
-<h2>🏛️ System Architechture</h2>
-<img src="https://github.com/~~~~">
 
+<h2>🏛️ System Architechture</h2>
+<img src="https://github.com/user-attachments/assets/a08a74d6-340e-4ded-8cc3-6c6928831fda">
 <br />
 <br />
 
@@ -131,9 +131,9 @@ https://medium.com/~~~
   ### Add Environment Files(.env)
   **/.env**
   ```
-  DATABASE_NAME= 
-  DATABASE_USER=
-  DATABASE_PASS=
+  DATABASE_NAME= capstone
+  DATABASE_USER= sa
+  DATABASE_PASS= 1234
   DATABASE_HOST=
   DATABASE_PORT=
   SECRET_KEY=
