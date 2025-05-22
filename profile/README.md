@@ -1,8 +1,8 @@
 # <icon> Overspeed vehicle detection and alert system - with Qualcomm
 <div align=center>
 <img src="~~"/>
-<h5>2025.03.20-2024.05.</h5>
-<h4>https://domain</h4>
+<h5>2025.03.20-2024.05.30</h5>
+<h4>https://autonotify.store</h4>
 <h2>실시간 과속탐지 및 알림 시스템</h2>
 <h3>Rubik Pi 보드에서 YOLO 기반 객체 감지와 속도 측정을 통해 과속 차량을 탐지하고,<br>
 서버로 정보를 전송해 실시간 알림까지 제공하는 스마트 교통 시스템</h3>
