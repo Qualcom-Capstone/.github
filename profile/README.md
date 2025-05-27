@@ -1,7 +1,7 @@
 # <icon> Overspeed vehicle detection and alert system - with Qualcomm
 
 <div align=center>
-<img src="~~"/>
+<img src="https://github.com/user-attachments/assets/cadc57b1-1806-4580-954d-ef898bd68f5f"/>
 <h5>2025.03.20-2024.05.30</h5>
 <h4>https://autonotify.store</h4>
 <h2>실시간 과속탐지 및 알림 시스템</h2>
@@ -10,6 +10,8 @@
 </div>
 <br />
 
+
+
 <h2>📖 Medium</h2>
 https://medium.com/~~~
 <br />
@@ -17,11 +19,12 @@ https://medium.com/~~~
 
 <h2>🖥️ Demo</h2>
 <h3>메인페이지(과속 차량 목록보기)</h3>
-<img src="https://github.com/~~~">
+<img src="https://github.com/user-attachments/assets/812776f4-7dfe-4638-9ca1-0b6490662785" width="70%" >
 <h3>과속 차량 개별 보기</h3>
-<img src="https://github.com/~~~">
+<img src="https://github.com/user-attachments/assets/5c0a0853-0a12-4578-bc16-22947f388412" width="70%">
 <h3>알림 확인하기</h3>
-<img src="https://github.com/~~~">
+<img src="https://github.com/user-attachments/assets/c8415375-8a53-45be-b3bb-a0e9a2b20437" width="70%">
+
 
 
 <br />
