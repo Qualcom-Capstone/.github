@@ -52,19 +52,26 @@ https://medium.com/~~~
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white">
 
 
 <br />
 <br />
-<h4>DevOps</h4>
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/>
+<h4>Infra</h4>
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+<img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white">
+<img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white">
+
 
 <br />
 <br />
 <h4>etc</h4>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
@@ -77,7 +84,21 @@ https://medium.com/~~~
 
 <br />
 
-<h1>Rubik Pi 3</h1>
+<h2>Notification System Design</h2>
+
+<h4>Django - RabbitMQ - Celery - FCM(3rd party Service) feat. Ack & Nack</h4>
+<img src="https://github.com/user-attachments/assets/671d75ad-a1ab-441e-8159-f55080f38cb4">
+<h4>Dead Letter Queue & Dead Letter Consumer</h4>
+<img src="https://github.com/user-attachments/assets/75dc90c3-89d8-435b-a36e-5addbeaaf3ce">
+
+
+
+<h4>reference</h4>  
+
+- System Deisgn interview (Alex Xu)
+- <a href="https://youtu.be/uk5fRLUsBfk?si=n6--PVE2CH4pQt_4">분산 시스템에서 데이터를 전달하는 효율적인 방법 - nhn 김병부</a>
+
+<h2>Rubik Pi 3</h2>
 Qualcomm 기반 Rubik Pi 하드웨어에서 YOLO 객체 탐지와 GStreamer를 활용해,
 실시간으로 과속 차량을 감지하는 완전한 엣지 기반 시스템.
 카메라 입력부터 추론, 트래킹, 속도 측정, 과속 차량 촬영까지 모든 과정을 로컬에서 처리하므로 클라우드 연산 불필요.
@@ -130,11 +151,14 @@ IoU를 계산하여, 다음프레임의 객체가 같은 객체인지 판단
 <h3>Swagger</h3>
 <img src="https://github.com/user-attachments/assets/df0e268c-4dfe-469e-a519-e8e2c49bee40">
 <h3>Postman</h3>
-<img src="https://github.com/~~~~">
+<img src="https://github.com/user-attachments/assets/d319a2ae-ee50-462e-8224-131d4656af48">
 
 <br />
 
 <h2>🔍 Monitoring</h2>
+<h3>Portainer</h3>
+<img src="https://github.com/user-attachments/assets/c587e391-3b48-410a-b6aa-8c118952cfcd">
+
 <h3>RabbitMQ</h3>
 <img src="https://github.com/~~~">
 
