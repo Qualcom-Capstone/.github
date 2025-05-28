@@ -18,6 +18,9 @@ https://medium.com/~~~
 <br />
 
 <h2>🖥️ Demo</h2>
+<h3>시연 영상</h3>
+https://www.youtube.com/watch?v=FDzbjOeika8
+
 <h3>메인페이지(과속 차량 목록보기)</h3>
 <img src="https://github.com/user-attachments/assets/812776f4-7dfe-4638-9ca1-0b6490662785" width="70%" >
 <h3>과속 차량 개별 보기</h3>
