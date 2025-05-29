@@ -152,7 +152,7 @@ IoU를 계산하여, 다음프레임의 객체가 같은 객체인지 판단
 
 <h2>📁 API</h2>
 <h3>Swagger</h3>
-<img src="https://github.com/user-attachments/assets/df0e268c-4dfe-469e-a519-e8e2c49bee40">
+<img src="https://github.com/user-attachments/assets/32f4389e-ef31-4ce1-b385-b369759a1f14">
 <h3>Postman</h3>
 <img src="https://github.com/user-attachments/assets/d319a2ae-ee50-462e-8224-131d4656af48">
 
