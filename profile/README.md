@@ -269,17 +269,17 @@ http://localhost:5173 에 접속하여 결과물을 조회합니다.
         <th>Pictures</th>
          <td width="100" align="center">
             <a href="https://github.com/lsh1215">
-                <img src="https://github.com/~~~" width="80" height="80">
+                <img src="https://github.com/user-attachments/assets/5acaee97-6742-4f73-b47f-262cfdade814" width="80" height="80">
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/~~~">
-                <img src="https://github.com/~~`" width="80" height="80">
+                <img src="https://github.com/user-attachments/assets/27154e48-de61-4584-8309-3dab052b594d" width="80" height="80">
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/~~~">
-                <img src="https://github.com/~~~" width="80" height="80">
+                <img src="https://github.com/user-attachments/assets/aa6221bd-de3e-4926-8f98-ec0ecc1cbf72" width="80" height="80">
             </a>
         </td>
         <td width="100" align="center">
@@ -320,17 +320,17 @@ http://localhost:5173 에 접속하여 결과물을 조회합니다.
         <th>GitHub</th>
         <td width="100" align="center">
             <a href="https://github.com/lsh1215">
-                <img src="https://github.com/user-attachments/assets/92f34e26-7cd6-4f54-a20a-8248cb18dbdd"/>
+                <img src="http://img.shields.io/badge/UpToMind-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/Jminu">
-                <img src="http://img.shields.io/badge/Jminu-green?style=social&logo=github"/>
+                <img src="http://img.shields.io/badge/UpToMind-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/choimh331">
-                <img src="http://img.shields.io/badge/choimh331-green?style=social&logo=github"/>
+                <img src="http://img.shields.io/badge/UpToMind-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
