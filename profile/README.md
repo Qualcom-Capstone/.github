@@ -162,11 +162,12 @@ IoU를 계산하여, 다음프레임의 객체가 같은 객체인지 판단
 <h3>Portainer</h3>
 <img src="https://github.com/user-attachments/assets/c587e391-3b48-410a-b6aa-8c118952cfcd">
 
+
 <h3>RabbitMQ</h3>
-<img src="https://github.com/~~~">
+<img src="https://github.com/user-attachments/assets/a40a7cbb-0922-4fc4-9de5-710ec1b71a76">
 
 <h3>Flower(celery monitoring</h3>
-<img src="https://github.com/~~~">
+<img src="https://github.com/user-attachments/assets/c0f44488-142a-4f3d-bbab-c64479ee3e75">
 
 <br />
 <h2>📓 How to Start</h2>
