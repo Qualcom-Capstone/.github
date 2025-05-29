@@ -335,7 +335,7 @@ http://localhost:5173 에 접속하여 결과물을 조회합니다.
         </td>
         <td width="100" align="center">
             <a href="https://github.com/Jeongchan-Seo">
-                <img src="http://img.shields.io/badge/Jeongchan-Seo-green?style=social&logo=github"/>
+                <img src="http://img.shields.io/badge/JeongchanSeo-green?style=social&logo=github"/>
             </a>
         </td>
      </tr>
