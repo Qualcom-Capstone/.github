@@ -284,7 +284,7 @@ http://localhost:5173 에 접속하여 결과물을 조회합니다.
         </td>
         <td width="100" align="center">
             <a href="https://github.com/Jeongchan-Seo">
-                <img src="" width="80" height="80">
+                <img src="https://avatars.githubusercontent.com/u/147306987?v=4" width="80" height="80">
             </a>
         </td>
     </tr>
