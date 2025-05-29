@@ -283,8 +283,8 @@ http://localhost:5173 에 접속하여 결과물을 조회합니다.
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/~~~">
-                <img src="https://github.com/~~~" width="80" height="80">
+            <a href="https://github.com/Jeongchan-Seo">
+                <img src="" width="80" height="80">
             </a>
         </td>
     </tr>
@@ -320,22 +320,22 @@ http://localhost:5173 에 접속하여 결과물을 조회합니다.
         <th>GitHub</th>
         <td width="100" align="center">
             <a href="https://github.com/lsh1215">
-                <img src="http://img.shields.io/badge/qwer-green?style=social&logo=github"/>
+                <img src="http://img.shields.io/badge/lsh1215-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/Jminu">
-                <img src="http://img.shields.io/badge/UpToMind-green?style=social&logo=github"/>
+                <img src="http://img.shields.io/badge/Jminu-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/choimh331">
-                <img src="http://img.shields.io/badge/UpToMind-green?style=social&logo=github"/>
+                <img src="http://img.shields.io/badge/choimh331-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/~~~">
-                <img src="http://img.shields.io/badge/UpToMind-green?style=social&logo=github"/>
+            <a href="https://github.com/Jeongchan-Seo">
+                <img src="http://img.shields.io/badge/Jeongchan-Seo-green?style=social&logo=github"/>
             </a>
         </td>
      </tr>
