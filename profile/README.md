@@ -320,7 +320,7 @@ http://localhost:5173 에 접속하여 결과물을 조회합니다.
         <th>GitHub</th>
         <td width="100" align="center">
             <a href="https://github.com/lsh1215">
-                <img src="http://img.shields.io/badge/lsh1215-green?style=social&logo=github"/>
+                <img src="https://github.com/user-attachments/assets/92f34e26-7cd6-4f54-a20a-8248cb18dbdd"/>
             </a>
         </td>
         <td width="100" align="center">
@@ -329,7 +329,7 @@ http://localhost:5173 에 접속하여 결과물을 조회합니다.
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/~~~">
+            <a href="https://github.com/choimh331">
                 <img src="http://img.shields.io/badge/choimh331-green?style=social&logo=github"/>
             </a>
         </td>
