@@ -273,12 +273,12 @@ http://localhost:5173 에 접속하여 결과물을 조회합니다.
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/~~~">
+            <a href="https://github.com/Jminu">
                 <img src="https://github.com/user-attachments/assets/27154e48-de61-4584-8309-3dab052b594d" width="80" height="80">
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/~~~">
+            <a href="https://github.com/choimh331">
                 <img src="https://github.com/user-attachments/assets/aa6221bd-de3e-4926-8f98-ec0ecc1cbf72" width="80" height="80">
             </a>
         </td>
