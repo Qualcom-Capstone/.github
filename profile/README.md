@@ -185,6 +185,7 @@ docker repository를 클론합니다.
 패키지 설치를 합니다.
 
   ```
+  npm install
   ```
 
 ### Add Environment Files
@@ -194,6 +195,14 @@ docker repository를 클론합니다.
 #### .env
 
   ```
+  VITE_API_BASE_URL=http://localhost:8000/api
+  VITE_FIREBASE_API_KEY=YOUR_FIREBASE_API_KEY
+  VITE_FIREBASE_AUTH_DOMAIN=YOUR_FIREBASE_AUTH_DOMAIN
+  VITE_FIREBASE_PROJECT_ID=YOUR_FIREBASE_PROJECT_ID
+  VITE_FIREBASE_STORAGE_BUCKET=YOUR_FIREBASE_STORAGE_BUCKET
+  VITE_FIREBASE_MESSAGING_SENDER_ID=YOUR_SENDER_ID
+  VITE_FIREBASE_APP_ID=YOUR_FIREBASE_APP_ID
+  VITE_FIREBASE_VAPID_KEY=YOUR_FIREBASE_VAPID_KEY
   ```
 
 ### Getting Started
@@ -201,11 +210,12 @@ docker repository를 클론합니다.
 마지막으로 개발 서버를 열어줍니다.
 
   ```
+  npm run dev
   ```
 
 ### See Result
 
-http://localhost:3000 에 접속하여 결과물을 조회합니다.
+http://localhost:5173 에 접속하여 결과물을 조회합니다.
 
 </details>
 
